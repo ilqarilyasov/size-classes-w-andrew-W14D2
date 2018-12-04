@@ -57,8 +57,8 @@
 				82796F2521B6FF7D007062E4 /* AppDelegate.swift */,
 				82796F2721B6FF7D007062E4 /* ViewController.swift */,
 				82796F2921B6FF7D007062E4 /* Main.storyboard */,
-				82796F2C21B6FF7E007062E4 /* Assets.xcassets */,
 				82796F2E21B6FF7E007062E4 /* LaunchScreen.storyboard */,
+				82796F2C21B6FF7E007062E4 /* Assets.xcassets */,
 				82796F3121B6FF7E007062E4 /* Info.plist */,
 			);
 			path = SizeClasses;
